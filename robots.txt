@@ -1,3 +1,0 @@
-User-agent: *
-    Allow: /
-    Sitemap: https://johnydoe.xyz/my_sitemap.xml
